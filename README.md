@@ -12,3 +12,5 @@ LeetCode JavaScript Solution
 | Longest Substring Without Repeating Characters | Medium | 2017-10-11 |
 | Binary Number with Alternating Bits | Easy | 2017-10-13 |
 | Median of Two Sorted Arrays | Hard | 2017-10-13 |
+| Longest Palindromic Substring | Medium | 2018-01-19 |
+| Reverse Integer | Easy | 2018-01-19 |
