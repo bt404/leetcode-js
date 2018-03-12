@@ -22,7 +22,7 @@ var isMatchDp = function (s, p) {
     if (!(temp[i] && temp[i][j])) {
       let ret = false,
           firstMatch = false;
-      temp[i] = [];
+      temp[i] = temp[i] || [];
       if (j === p.length) {
         ret = i === s.length;
       } else {
