@@ -15,3 +15,4 @@ LeetCode JavaScript Solution
 | Longest Palindromic Substring | Medium | 2018-01-19 |
 | Reverse Integer | Easy | 2018-01-19 |
 | Regular Expression Matching | Hard | 2018-03-09 |
+| Palindrome Number | Easy | 2018-03-16 |
