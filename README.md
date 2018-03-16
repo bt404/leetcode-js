@@ -18,3 +18,4 @@ LeetCode JavaScript Solution
 | Palindrome Number | Easy | 2018-03-16 |
 | Remove Nth Node From End of List | Medium | 2018-03-16 |
 | Valid Parentheses | Easy | 2018-03-16 |
+| Remove Duplicates from Sorted Array | Easy | 2018-03-16 |
