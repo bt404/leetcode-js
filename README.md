@@ -17,3 +17,4 @@ LeetCode JavaScript Solution
 | Regular Expression Matching | Hard | 2018-03-09 |
 | Palindrome Number | Easy | 2018-03-16 |
 | Remove Nth Node From End of List | Medium | 2018-03-16 |
+| Valid Parentheses | Easy | 2018-03-16 |
